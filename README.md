@@ -1,4 +1,9 @@
-Personal website and portfolio.
+A mock landing page for 'Lorem Ipsum National Park.'
+
+HTML, CSS, JavaScript. Practicing CSS animations.
+
+![lorem-ipsum-park](https://github.com/DannyStalter/dannystalter/assets/24239852/caa3a714-4e6b-410a-b91a-370bdd24efaa)
+
 
 <!--
 **DannyStalter/dannystalter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
